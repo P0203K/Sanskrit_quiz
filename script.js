@@ -2,19 +2,19 @@
 const quizData = [
     {
       question: 'Question 1',
-      image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\1.png',
+      image: 'images\\1.png',
       options: ['Ûma‘²', 'Option 2', 'Option 3', 'Option 4'],
       answer: 0 // Index of the correct option
     },
     {
         question: 'Question 2',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\2.png',
+        image: 'images\\2.png',
         options: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 3',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\3.png',
+        image: 'images\\3.png',
         options: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
         answer: 0 // Index of the correct option
       },
