@@ -33,7 +33,7 @@ const quizData = [
       {
         question: 'Question 6',
         image: 'images\\6.png',
-        options: ['पर्यङ्क', 'पर्यङ्कम्', 'पर्यंक:', 'परयङ्क'],
+        options: ['पर्यङ्क:', 'पर्यङ्कम्', 'पर्यंक:', 'परयङ्क'],
         answer: 0 // Index of the correct option
       },
       {
@@ -81,13 +81,13 @@ const quizData = [
       {
         question: 'Question 14',
         image: 'images\\14.png',
-        options: ['वायुचुल्ली:', 'वायुचुल्ली', 'वायुचुल्लि', 'वायुचुलि'],
+        options:['भोजनपीठम्', 'भोजनपीठं', 'भोजनपिठम्', 'भोजनपिठः'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 15',
         image: 'images\\15.png',
-        options: ['भोजनपीठम्', 'भोजनपीठं', 'भोजनपिठम्', 'भोजनपिठः'],
+        options:  ['वायुचुल्ली:', 'वायुचुल्ली', 'वायुचुल्लि', 'वायुचुलि'],
         answer: 0 // Index of the correct option
       },
       {
