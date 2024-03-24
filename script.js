@@ -3,7 +3,7 @@ const quizData = [
     {
       question: 'Question 1',
       image: 'images\\1.png',
-      options: ['Ûma‘²', 'Option 2', 'Option 3', 'Option 4'],
+      options: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
       answer: 0 // Index of the correct option
     },
     {
