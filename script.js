@@ -20,103 +20,103 @@ const quizData = [
       },
       {
         question: 'Question 4',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\4.png',
+        image: 'images\\4.png',
         options: ['प्रधानकक्ष', 'प्रधानकषः', 'प्राधानकक्ष:', 'प्रधानकक्षम्'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 5',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\5.png',
+        image: 'images\\5.png',
         options: ['जवनिका', 'जवनीका', 'जवनिकः', 'जावनिका'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 6',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\6.png',
+        image: 'images\\6.png',
         options: ['पर्यङ्क', 'पर्यङ्कम्', 'पर्यंक:', 'परयङ्क'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 7',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\7.png',
+        image: 'images\\7.png',
         options: ['तल्प:', 'तल्प', 'तलपः', 'तलावः'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 8',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\8.png',
+        image: 'images\\8.png',
         options: ['उपधानम्', 'उपाधानम्', 'उपधानः', 'उपाधनम्'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 9',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\9.png',
+        image: 'images\\9.png',
         options: ['आच्छादकम्', 'अच्छादकम्', 'आच्छदकम्', 'आच्छदकम्'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 10',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\10.png',
+        image: 'images\\10.png',
         options: ['समीकर:', 'समिकर', 'समीकरम्', 'सामीकर:'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 11',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\11.png',
+        image: 'images\\11.png',
         options: ['क्षालनयन्त्रम्', 'क्षालनयन्त्रः', 'क्षलनयन्त्रम्', 'क्षलनयन्त्रः'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 12',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\12.png',
+        image: 'images\\12.png',
         options: ['पुष्पाधानी', 'पुष्पाधानि', 'पुष्पादानी', 'पुश्पाधानी'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 13',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\13.png',
+        image: 'images\\13.png',
         options: ['पाकशाला', 'पाकशालाः', 'पाकंशाला', 'पाकशालम्'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 14',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\14.png',
+        image: 'images\\14.png',
         options: ['वायुचुल्ली:', 'वायुचुल्ली', 'वायुचुल्लि', 'वायुचुलि'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 15',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\15.png',
+        image: 'images\\15.png',
         options: ['भोजनपीठम्', 'भोजनपीठं', 'भोजनपिठम्', 'भोजनपिठः'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 16',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\16.png',
+        image: 'images\\16.png',
         options: ['पात्रम्', 'पात्रं', 'पात्रः', 'पत्रम्'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 17',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\17.png',
+        image: 'images\\17.png',
         options: ['दर्वी', 'दरवी', 'दर्वि', 'दरवि'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 18',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\18.png',
+        image: 'images\\18.png',
         options: ['मिश्रक:', 'मिश्रकम्', 'मीश्रक', 'मीश्रकं'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 19',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\19.png',
+        image: 'images\\19.png',
         options: ['स्थालिका', 'स्थालीका', 'स्थालिकाः', 'स्थालिः'],
         answer: 0 // Index of the correct option
       },
       {
         question: 'Question 20',
-        image: 'C:\\Users\\Preeti Khamkar\\OneDrive\\Desktop\\vidhi_quiz\\images\\20.png',
+        image: 'images\\20.png',
         options: ['कटाह', 'कटाहं', 'कटाहम्', 'काटाह:'],
         answer: 0 // Index of the correct option
       },
